@@ -1,0 +1,631 @@
+[23-Aug-2021 23:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[23-Aug-2021 23:48:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[23-Aug-2021 23:55:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 01:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 01:35:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 01:35:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 03:17:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 03:20:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:11:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:11:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:11:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:26:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:31:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:42:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 04:43:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 05:34:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 05:34:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 07:47:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 07:47:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 07:47:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 08:10:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 08:23:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 08:23:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 08:47:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 08:47:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:24:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:29:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:29:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/index.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:37:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:37:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:38:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:38:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:39:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:40:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:40:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:40:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 391
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 392
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/arzc6552/public_html/index.php on line 394
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Warning:  Use of undefined constant SQLSRV_CURSOR_KEYSET - assumed 'SQLSRV_CURSOR_KEYSET' (this will throw an Error in a future version of PHP) in /home/arzc6552/public_html/index.php on line 415
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects at most 3 parameters, 4 given in /home/arzc6552/public_html/index.php on line 416
+[24-Aug-2021 09:46:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_num_rows() in /home/arzc6552/public_html/index.php:418
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 418
+[24-Aug-2021 09:50:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/index.php:446
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/index.php on line 446
+[24-Aug-2021 09:55:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/about.php(133): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:56:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/about.php(275): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 09:57:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/services.php(133): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:13:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/services.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/arzc6552/public_html/services.php on line 178
+[24-Aug-2021 10:13:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/blog.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:15:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/blog.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:16:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/blog.php(134): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:17:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/single-blog.php(136): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:18:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php:4
+Stack trace:
+#0 /home/arzc6552/public_html/contact.php(121): include()
+#1 {main}
+  thrown in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 10:20:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:20:55 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 10:22:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:28:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:33:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:33:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 10:34:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:38:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 10:43:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 10:49:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 10:56:22 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 10:57:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_kades.php on line 5
+[24-Aug-2021 10:59:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:02:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:02:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:09:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 11:10:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 11:12:36 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 11:22:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 11:30:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:30:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_A.php:3) in /home/arzc6552/public_html/surat_A.php on line 5
+[24-Aug-2021 11:30:56 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:30:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:31:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:31:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 11:31:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[24-Aug-2021 11:31:48 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_belum_ttd.php:3) in /home/arzc6552/public_html/surat_belum_ttd.php on line 5
+[24-Aug-2021 11:31:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[24-Aug-2021 11:31:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/data_surat_kades.php:3) in /home/arzc6552/public_html/data_surat_kades.php on line 5
+[24-Aug-2021 11:31:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/detail_surat.php:3) in /home/arzc6552/public_html/detail_surat.php on line 5
+[24-Aug-2021 11:39:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:39:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:44:11 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:44:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:44:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:44:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_A.php:3) in /home/arzc6552/public_html/surat_A.php on line 5
+[24-Aug-2021 11:45:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:45:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:45:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:45:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 11:45:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:46:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:46:12 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 11:46:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_penduduk_user.php:3) in /home/arzc6552/public_html/tambah_data_penduduk_user.php on line 5
+[24-Aug-2021 11:46:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:47:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:48:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 11:49:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:49:44 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 11:49:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 11:51:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_fetch_array() in /home/arzc6552/public_html/surat_izin_kerumunan.php on line 124
+[24-Aug-2021 11:57:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 11:57:19 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 11:57:37 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 11:59:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 11:59:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 11:59:38 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 12:00:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 12:00:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 12:00:47 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 12:00:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 12:00:59 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 12:01:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 12:02:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 12:04:02 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 12:04:20 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 12:04:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 12:04:26 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 12:05:44 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 12:36:18 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 12:39:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:39:56 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:50:15 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:52:06 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:52:26 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:53:27 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 12:58:36 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 13:00:18 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 13:06:14 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 13:06:27 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[24-Aug-2021 13:18:37 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[24-Aug-2021 13:25:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[24-Aug-2021 13:25:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/token_pengajuan.php:3) in /home/arzc6552/public_html/token_pengajuan.php on line 5
+[24-Aug-2021 13:26:13 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/kotak_masuk.php:3) in /home/arzc6552/public_html/kotak_masuk.php on line 5
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 9
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 10
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 11
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 12
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 13
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 14
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 15
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_surat.php:1) in /home/arzc6552/public_html/download_surat.php on line 16
+[24-Aug-2021 13:26:16 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_surat.php on line 19
+[24-Aug-2021 13:26:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 13:26:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 13:27:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:30:57 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/edit_data_penduduk.php:3) in /home/arzc6552/public_html/edit_data_penduduk.php on line 5
+[24-Aug-2021 13:32:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/edit_data_penduduk.php:3) in /home/arzc6552/public_html/edit_data_penduduk.php on line 5
+[24-Aug-2021 13:32:52 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/edit_data_keluarga.php:3) in /home/arzc6552/public_html/edit_data_keluarga.php on line 5
+[24-Aug-2021 13:33:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/edit_data_rmhtangga.php:3) in /home/arzc6552/public_html/edit_data_rmhtangga.php on line 5
+[24-Aug-2021 13:33:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:33:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:35:08 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_kelompok.php:3) in /home/arzc6552/public_html/tambah_data_kelompok.php on line 5
+[24-Aug-2021 13:35:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:35:19 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_rmhtangga.php:3) in /home/arzc6552/public_html/tambah_data_rmhtangga.php on line 5
+[24-Aug-2021 13:35:19 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:35:23 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_penduduk.php:3) in /home/arzc6552/public_html/tambah_data_penduduk.php on line 5
+[24-Aug-2021 13:35:30 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_keluarga.php:3) in /home/arzc6552/public_html/tambah_data_keluarga.php on line 5
+[24-Aug-2021 13:35:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:37:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_keluarga.php:3) in /home/arzc6552/public_html/tambah_data_keluarga.php on line 5
+[24-Aug-2021 13:37:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function msqli_query() in /home/arzc6552/public_html/tambah_data_keluarga.php on line 159
+[24-Aug-2021 13:37:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_keluarga.php:3) in /home/arzc6552/public_html/tambah_data_keluarga.php on line 5
+[24-Aug-2021 13:37:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function msqli_query() in /home/arzc6552/public_html/tambah_data_keluarga.php on line 159
+[24-Aug-2021 13:37:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_keluarga.php:3) in /home/arzc6552/public_html/tambah_data_keluarga.php on line 5
+[24-Aug-2021 13:38:00 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_rmhtangga.php:3) in /home/arzc6552/public_html/tambah_data_rmhtangga.php on line 5
+[24-Aug-2021 13:38:00 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:38:49 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_rmhtangga.php:3) in /home/arzc6552/public_html/tambah_data_rmhtangga.php on line 5
+[24-Aug-2021 13:39:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_kelompok.php:3) in /home/arzc6552/public_html/tambah_data_kelompok.php on line 5
+[24-Aug-2021 13:39:01 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:39:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_kelompok.php:3) in /home/arzc6552/public_html/tambah_data_kelompok.php on line 5
+[24-Aug-2021 13:40:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat_ttdkades.php:3) in /home/arzc6552/public_html/jenis_surat_ttdkades.php on line 5
+[24-Aug-2021 13:52:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:53:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 9
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 10
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 11
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 12
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 13
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 14
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 15
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download.php:1) in /home/arzc6552/public_html/download.php on line 16
+[24-Aug-2021 13:56:13 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download.php on line 19
+[24-Aug-2021 13:56:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 13:57:28 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 14:05:50 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 14:06:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat_ttdkades.php:3) in /home/arzc6552/public_html/jenis_surat_ttdkades.php on line 5
+[24-Aug-2021 14:06:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:06:17 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:06:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:06:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:06:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:07:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:07:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:09:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:09:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:22:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:22:46 Asia/Jakarta] PHP Fatal error:  Call to undefined function sqlsrv_connect() in /home/arzc6552/public_html/koneksi_srvr.php on line 4
+[24-Aug-2021 14:34:33 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:34:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:34:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:35:04 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat.php:3) in /home/arzc6552/public_html/jenis_surat.php on line 5
+[24-Aug-2021 14:35:51 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat_ttdkades.php:3) in /home/arzc6552/public_html/jenis_surat_ttdkades.php on line 5
+[24-Aug-2021 15:50:32 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 15:51:02 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_penduduk.php:3) in /home/arzc6552/public_html/tambah_data_penduduk.php on line 5
+[24-Aug-2021 15:52:10 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 17:04:21 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[24-Aug-2021 17:05:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[25-Aug-2021 13:41:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[25-Aug-2021 18:46:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 9
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 10
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 11
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 12
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 13
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 14
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 15
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arzc6552/public_html/download_buku_administrasi_desa.php:1) in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 16
+[25-Aug-2021 18:47:08 Asia/Jakarta] PHP Warning:  readfile() has been disabled for security reasons in /home/arzc6552/public_html/download_buku_administrasi_desa.php on line 19
+[25-Aug-2021 18:53:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[25-Aug-2021 18:54:03 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_belum_ttd.php:3) in /home/arzc6552/public_html/surat_belum_ttd.php on line 5
+[25-Aug-2021 18:54:14 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_belum_ttd.php:3) in /home/arzc6552/public_html/surat_belum_ttd.php on line 5
+[25-Aug-2021 18:54:25 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[25-Aug-2021 18:54:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/surat_belum_ttd.php:3) in /home/arzc6552/public_html/surat_belum_ttd.php on line 5
+[25-Aug-2021 18:54:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[25-Aug-2021 18:54:37 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/data_surat_kades.php:3) in /home/arzc6552/public_html/data_surat_kades.php on line 5
+[25-Aug-2021 18:54:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/detail_surat.php:3) in /home/arzc6552/public_html/detail_surat.php on line 5
+[25-Aug-2021 18:55:07 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_kades.php:3) in /home/arzc6552/public_html/index_kades.php on line 5
+[25-Aug-2021 18:55:16 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/data_surat_kades.php:3) in /home/arzc6552/public_html/data_surat_kades.php on line 5
+[25-Aug-2021 18:55:45 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_admin.php:4) in /home/arzc6552/public_html/index_admin.php on line 6
+[25-Aug-2021 18:56:18 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/jenis_surat_ttdkades.php:3) in /home/arzc6552/public_html/jenis_surat_ttdkades.php on line 5
+[25-Aug-2021 19:51:26 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[25-Aug-2021 19:51:59 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[25-Aug-2021 19:52:01 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[25-Aug-2021 19:52:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/index_user.php:3) in /home/arzc6552/public_html/index_user.php on line 5
+[25-Aug-2021 19:52:46 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/arzc6552/public_html/tambah_data_penduduk_user.php:3) in /home/arzc6552/public_html/tambah_data_penduduk_user.php on line 5
